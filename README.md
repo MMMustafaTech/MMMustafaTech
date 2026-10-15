@@ -21,13 +21,13 @@ I'm studying Computer Engineering at **Bolu Abant İzzet Baysal University** in 
 | [Data Structures](https://github.com/MMMustafaTech/data-structures-cpp) | Linked lists, stacks, queues, dynamic arrays, undo/redo, and a queue simulation | C++ · Templates |
 | [Bus Ticket Sales System](https://github.com/MMMustafaTech/OtobusBiletSatisSistemiProje) | An earlier Java bus-ticket project | Java |
 
-The C++ and C# projects above are coursework-based implementations from my Programming Advices learning journey. Their READMEs describe the learning source and repository preparation. The Java repository is archived.
+The C++ and C# projects above are part of my Programming Advices coursework. The Java repository is archived.
 
 ### Learning journey
 
 Explore my [Programming Advices coursework](https://github.com/MMMustafaTech/programming-advices-journey): saved exercises, lesson examples, notes, and projects organized by course.
 
-**Current focus:** Course 19 — DVLD (Driving License Management). Additional project files will be added as my work becomes available.
+**Current focus:** Course 19 — DVLD (Driving License Management).
 
 ### Connect
 
